@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "hangman",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitaweb/Constructor-Hangman.git"
+  },
+  "author": "WW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitaweb/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/whitaweb/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "prompt": "^1.0.0"
+  }
+}
